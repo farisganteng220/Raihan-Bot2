@@ -70,16 +70,16 @@ ___
 ## CARA INSTALL DI TERMUX
 ```bash
 > pkg install nodejs && pkg install git
-> git clone https://github.com/KiZakiXD/zakbotz02
-> cd zakbotz02
+> git clone https://github.com/farisganteng220/Raihan-Bot2
+> cd Raihan-Bot2
 > bash install.sh / npm install
 > npm update
 > npm start/node main.js
 ```
 ## CARA INSTALL DI RDP
 ```bash
-> git clone https://github.com/KizakiXD/zakbotz02 
-> cd zakbotzv02
+> git clone https://github.com/farisganteng220/Raihan-Bot2
+> cd Raihan-Bot2
 > npm i
 > npm update
 > npm start/node main.js
